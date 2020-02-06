@@ -2,7 +2,7 @@
 
 ### [`Agenda-at-a-glance grid (pdf)`](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/S4x20-Agenda-At-A-Glance-Jan2.pdf) | [`s4xevents.com`](https://s4xevents.com/) | [`Videos`](https://www.youtube.com/channel/UC5MdLu7ji_eyGiTfigk75lQ/videos)
 
-# Day 1 (January 21)**
+# Day 1 (January 21)
 
 | **Main Stage** | **Deep Dives** | **Sponsor Stage** |
 | --- | --- | --- |
@@ -22,7 +22,7 @@ Kristin Demoranville / Stuart King |   |   |
 | An Interview with Andy Greenberg, Author of Sandworm |   |   |
 
 
-# Day 2 (January 22)**
+# Day 2 (January 22)
 
 | **Main Stage** | **Deep Dives** | **Sponsor Stage** |
 | --- | --- | --- |
@@ -34,7 +34,7 @@ Kristin Demoranville / Stuart King |   |   |
 | Time and Talent for an OT SOC. Rebekah Mohr - Accenture  |   |   |
 
 
-# Day 3 (January 23)**
+# Day 3 (January 23)
 
 | **Main Stage** | **Deep Dives** | **Sponsor Stage** |
 | --- | --- | --- |
