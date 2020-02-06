@@ -4,15 +4,15 @@
 
 | **Main Stage** | **Deep Dives** | **Sponsor Stage** |
 | --- | --- | --- |
-| Dale&#39;s Welcome Keynote |   |   |
-| Chris Crebs |   |   |
-| Pwn2Own Miami - Intro &amp; Targets |   |   |
-| Cyber Nationalism: What Team Are You On? Dan Geer, Olav Lysne, Dale Peterson |   |   |
-| Plum Island and CISA CTER Demo Systems, Third Floor at S4x20 |   |   |
-| Threat Hunting With What You Have. Ben Goerz - Kimberly Clarke |   |   |
-| [What If Everything Got Hacked? Patrick Miller - Archer Energy Solutions](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/04_Patrick%20Miller_What%20If%20Everything%20Got%20Hacked.pdf) |   |   |
-| [Running A Factory: A Realistic ICS Honeynet. Stephen Hilt - Trend Micro](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/08_Stephen%20J%20Hilt_Factory%20Honeypot%20A%20High%20Interaction%20Honeypot.pdf) + [Report](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/08_wp-caught-in-the-act-running-a-realistic-factory-honeypot-to-capture-real-threats.pdf) |   |   |
-| Incident Command System for ICS (ICS4ICS). Megan Samford - Rockwell Automation |   |   |
+| Dale&#39;s Welcome Keynote | 14 Hours and an Electric Grid. Jason Larsen - IOActive | [ICS Security as a Service (ICSaaS). Barak Perelman - Indegy](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/01_Barak%20Perelman%20-%20Sponsored%20Indegy%20-%20ICSaaS.pdf) |
+| Chris Crebs | [Exploitable Vulnerabilities Hidden Deep in OT. Mark Carrigan - PAS](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/02_Mark%20Carrigan_Exploitable%20Vulnerabilities%20Hidden%20Deep%20in%20OT.pdf) | Oil &amp; Gas Cyber Threat Landscape. Roya Gordon - Accenture |
+| Pwn2Own Miami - Intro &amp; Targets | [Infrastructure as Code. Matt Backes - MIT Lincoln Labs](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/03_Matthew%20Backes_Critical_Infrastructure_as_Code_Final.pdf) | [Building an OT Capable SOC. Matt Caldwell - Dragos](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/03_MATT%20COWELL_Building%20an%20OT%20SOC_PRINT.pdf)  |
+| Cyber Nationalism: What Team Are You On? Dan Geer, Olav Lysne, Dale Peterson | [Critical Attack Flow Modeling. Bryan Singer - Red Trident](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/04_Bryan%20L%20Singer_Critical%20Attack%20Flow%20Modeling.pdf) | [ICS Supply Chain Security. Eric Byres - Adolus](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/04_Eric%20Byres_Five%20Blind%20People%20and%20an%20Elephant%20called%20ICS%20Supply%20Chain%20Security.pdf)  |
+| Plum Island and CISA CTER Demo Systems, Third Floor at S4x20 | GPS Time Source Attack Vector. Michael Toecker - ContextIS | [Nextgen Device Security at Level 1. Grant Vandebrake - Phoenix Contact](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/05_Phoenix_Contact_Next_Generation_Device_Security_v04.pdf)  |
+| Threat Hunting With What You Have. Ben Goerz - Kimberly Clarke | Offensive Tools For Testing Robots. David Mayoral - Alias Robotics | Why Cisco Integrated IT/OT Security. Marc Blackmer - Cisco / Sentryo  |
+| [What If Everything Got Hacked? Patrick Miller - Archer Energy Solutions](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/04_Patrick%20Miller_What%20If%20Everything%20Got%20Hacked.pdf) | Placeholder for Late Breaking Technical Content | OT Security: It&#39;s the CISO&#39;s Problem. Dave Weinstein - Claroty  |
+| [Running A Factory: A Realistic ICS Honeynet. Stephen Hilt - Trend Micro](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/08_Stephen%20J%20Hilt_Factory%20Honeypot%20A%20High%20Interaction%20Honeypot.pdf) + [Report](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/08_wp-caught-in-the-act-running-a-realistic-factory-honeypot-to-capture-real-threats.pdf) | [ICS 0Day Market Analysis. Sarah Freeman - INL](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/08_Sarah%20Freeman_ICS%200Day%20Market%20Analysis%20An%20Emerging%20Market.pdf) | [OT Incident Response and Forensics. Mark Carrigan - PAS](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/08_Mark%20Carrigan_Mind%20the%20Gap.pdf)  |
+| Incident Command System for ICS (ICS4ICS). Megan Samford - Rockwell Automation | Securing DER / California Rule 21. Tom Tansy - Sunspec Alliance | [ISA Cybersecurity Initiatives. Andre Ristaino - ISA](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/09_Andre%20Ristaino_ISA%20Cybersecurity%20Initiatives.pdf)  |
 | People Issues Panel
 Kristin Demoranville / Stuart King |   |   |
 | Calculating The Norsk Hydro Loss for Insurance. Russell Thomas - RMS |   |   |
