@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img height="200" src="https://i.pinimg.com/originals/17/76/64/1776645539bad4985600cbf96a842f30.png">
+  <img height="200" width="325" src="https://i.pinimg.com/originals/17/76/64/1776645539bad4985600cbf96a842f30.png">
 </p>
 
 ## Beer-ISAC Community Resources
