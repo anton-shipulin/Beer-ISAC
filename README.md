@@ -1,5 +1,5 @@
-<img align="left" width="50" height="50" src="https://i.pinimg.com/originals/1b/f7/80/1bf780230ea7760d0acc5a0e1f1bad53.jpg">
-**Beer-ISAC Community Resources** <br/><br/><br/>
+<img align="left" width="100" height="100" src="https://i.pinimg.com/originals/1b/f7/80/1bf780230ea7760d0acc5a0e1f1bad53.jpg">
+Beer-ISAC Community Resources <br/><br/><br/>
 
 **Conference materials**
 
