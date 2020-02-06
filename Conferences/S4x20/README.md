@@ -1,6 +1,6 @@
 [![IMAGE ALT TEXT HERE](https://i.pinimg.com/originals/2f/67/b6/2f67b629ed22e03d26f8f27920d4b3a7.png)](https://s4xevents.com/)
 
-# [Agenda-at-a-glance grid (pdf)](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/S4x20-Agenda-At-A-Glance-Jan2.pdf)
+# [`Agenda-at-a-glance grid (pdf`)](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/S4x20-Agenda-At-A-Glance-Jan2.pdf)`
 
 
 # Day 1 (January 21)**
@@ -21,3 +21,32 @@ Kristin Demoranville / Stuart King |   |   |
 | Calculating The Norsk Hydro Loss for Insurance. Russell Thomas - RMS |   |   |
 | Test Effect Payloads for Incident Response. Ginger Wright - INL |   |   |
 | An Interview with Andy Greenberg, Author of Sandworm |   |   |
+
+
+# Day 2 (January 22)**
+
+| **Main Stage** | **Deep Dives** | **Sponsor Stage** |
+| --- | --- | --- |
+| When To Patch What … Replacing the CVSS. Art Manion, Ralph Langner, Dale Peterson  | [Special Access Features on PLC&#39;s. Tobias Scharnowski - Ruhr University](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/01_Tobias%20Scharnowski_Special%20Access%20Features%20on%20PLCs.pdf) | GE Sponsor Session  |
+| Board of Director&#39;s Cyber Risk Responsibilities. Lisa Sotto - Hunton AK  | Security Metrics for IEC Security Levels. Jim Gilsinn - Dragos  | [Monitoring Encrypted Traffic in OT/IIoT. Stavrou &amp; Dugent - Nozomi Networks](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/02_Yiannis%20Stavrou_Encryption%20in%20IT-OT-IoT%20Networks%20and%20How%20to%20Monitor%20Them.pdf)  |
+| An Interview with Ed Schweitzer of SEL | PLC Secure Coding Practices. Jake Brodsky - Jacobs  | Secure Remote Access in 30 Seconds. Ian Schmertzler - Dispel  |
+| [RFP Questionnaires - Your Top 10 Questions. Bryan Owen - OSIsoft](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/04_Bryan%20Owen_Security%20Questionnaires%20For%20Vendors%20%E2%80%93%20Your%20Top%2010%20Questions.pdf)  | [Mapping Incidents to ICS ATT&amp;CK. Austin Scott - Dragos](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/04_Austin%20Scott_MAPPING%20INCIDENTS%20TO%20ICS%20ATT%26CK.pdf)  | Owl Cyber Defense Sponsor. Session  |
+| RFP Questionnaires - Your Top 10 Questions. Bryan Owen - OSIsoft  |   |   |
+| Time and Talent for an OT SOC. Rebekah Mohr - Accenture  |   |   |
+
+
+# Day 3 (January 23)**
+
+| **Main Stage** | **Deep Dives** | **Sponsor Stage** |
+| --- | --- | --- |
+| [The Inevitable Marriage of DevOps &amp; Security. Kelly Shortridge - Capsule8](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/01_Controlled-Chaos-DevOps-Security-Shortridge-S4x20.pdf)  | Attacking Distributed Energy Resources (DER). Maggie Morganti - ORNL  | Fortinet Sponsor Session  |
+| Moody&#39;s Cyber Risk Rating … The How &amp; Why. Derek Vadala - Cyber Assessments  | Using RUST Secure Programming Language in ICS. Adam Crain - Automatak  | Safe OT Security Monitoring. Andrew Ginter - Waterfall  |
+| [Ok, A SBOM Exists. Now What? Allen Friedman, David Foose, + Asset Owner](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/03_Allan%20Friedman_SBOM.pdf)  | Processing NSM - An Alarm Mgmt Approach. Chris Sistrunk - Mandiant  | Securing the Lifecycle of IoT Devices. Dean Weber - Mocana  |
+| [RYUK OT Incidents, A Case Study From the Responders. Clint Bodungen](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/04_Clint%20Bodungen_RYUK%20OT%20Incidents.pdf) | [Processing NSM - An Alarm Mgmt Approach. Chris Sistrunk - Mandiant](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/03_Chris%20Sistrunk_Tuning%20ICS%20Security%20Alerts.pdf)  | [ICS Security Community Building. Anton Shipulin, Vladimir Dashchenko - Kaspersky](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/04_Anton%20Shipulin_Vladimir%20Dashchenko_ICS%20Community%20building.pdf) |
+| Prairie Storm: A 3-Day Incident Exercise. Owen Redwood - NARI  | [PKI: An Aviation Case Study. Ron Brash - Verve Industrial](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/05_Ron%20Brash_PKI-AN%20AVIATION%20CASE%20STUDY.pdf)  | Red Balloon Sponsor Session  |
+| The Future: ICS Security Market in 3 to 5 Years. Dale Peterson - S4  | Unsolicited Response  | [Jumpstart Your NIST CSF Maturity. Brian Proctor - Forescout](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/06_Brian%20Proctor_Sandeep%20Lota_NIST%20CSF%20Maturity.pdf) |
+| An IIoT View From The Edge. Vikas Butaney - Cisco  |   |   |
+| Pwn2Own Miami Results and Analysis. Dustin Childs, Brian Gorenc - ZDI  |   |   |
+| Pwn2Own Miami Results and Analysis. Dustin Childs, Brian Gorenc - ZDI  |   |   |
+| ICS Security – European. Perspective Klaus Mochalski - Rheb  |   |   |
+| Closing Panel with Ralph Langner, Zach Tudor &amp; Dale Peterson  |   |   |
