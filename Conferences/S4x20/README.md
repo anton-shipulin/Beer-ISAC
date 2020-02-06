@@ -1,7 +1,6 @@
 [![IMAGE ALT TEXT HERE](https://i.pinimg.com/originals/2f/67/b6/2f67b629ed22e03d26f8f27920d4b3a7.png)](https://s4xevents.com/)
 
-### [`Agenda-at-a-glance grid (pdf)`](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/S4x20-Agenda-At-A-Glance-Jan2.pdf)
-
+### [`Agenda-at-a-glance grid (pdf)`](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/S4x20-Agenda-At-A-Glance-Jan2.pdf) | [`s4xevents.com`](https://s4xevents.com/) | [`Videos`](https://www.youtube.com/channel/UC5MdLu7ji_eyGiTfigk75lQ/videos)
 
 # Day 1 (January 21)**
 
