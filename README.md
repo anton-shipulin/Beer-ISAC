@@ -1,5 +1,7 @@
 
-<img height="400" src="https://i.pinimg.com/originals/17/76/64/1776645539bad4985600cbf96a842f30.png">
+<p align="center">
+  <img height="300" src="https://i.pinimg.com/originals/17/76/64/1776645539bad4985600cbf96a842f30.png">
+</p>
 
 **Conference materials**
 
