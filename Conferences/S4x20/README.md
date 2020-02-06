@@ -1,6 +1,6 @@
-[**Agenda-at-a-glance grid (pdf)**](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/S4x20-Agenda-At-A-Glance-Jan2.pdf)
+# [Agenda-at-a-glance grid (pdf)](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/S4x20-Agenda-At-A-Glance-Jan2.pdf)
 
-**Day 1 (January 21)**
+# Day 1 (January 21)**
 
 | **Main Stage** | **Deep Dives** | **Sponsor Stage** |
 | --- | --- | --- |
