@@ -47,5 +47,5 @@ Kristin Demoranville / Stuart King |   |   |
 | An IIoT View From The Edge. Vikas Butaney - Cisco  | [Understanding and Mitigating Risk of Internet-connected Industrial Systems (IIoT/ICS). Joel Langill - AECOM](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/02_Joel%20Langill_Understanding%20and%20Mitigating%20Risk%20of%20Internet-connected%20Industrial%20Systems%20IIoT-ICS.pdf) |   |
 | Pwn2Own Miami Results and Analysis. Dustin Childs, Brian Gorenc - ZDI  |   |   |
 | Mondragon Supply Chain Security. Salvador Trujillo - Ikerlan |   |   |
-| ICS Security – European. Perspective Klaus Mochalski - Rheb  |   |   |
+| [ICS Security – European Perspective. Klaus Mochalski - Rhebo](https://github.com/anton-shipulin/Beer-ISAC/blob/master/Conferences/S4x20/09_Klaus%20Mochalsk_ICS%20Security%20-%20European%20Perspective.pdf)  |   |   |
 | Closing Panel with Ralph Langner, Zach Tudor &amp; Dale Peterson  |   |   |
