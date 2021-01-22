@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Anton Shipulin - Kaspersky (shipulin.anton@gmail.com)";RSVP=TR
+	UE:mailto:shipulin.anton@gmail.com
+CLASS:PUBLIC
+CREATED:20210122T214017Z
+DESCRIPTION:Topic: Beer ISAC Virtual Party EU Timezone [Devoted to S4x21]\n
+	Time: Jan 26\, 2021 09:00 PM Central European Time (UTC +1)\n\nJoin Zoom M
+	eeting\nhttps://us02web.zoom.us/j/86576410122?pwd=YkdIVlQxUzhXbFcxb3N2QmRo
+	Z2J3UT09\n\nMeeting ID: 865 7641 0122\nPasscode: 771392\n\n
+DTEND;TZID="W. Europe Standard Time":20210126T223000
+DTSTAMP:20210122T213927Z
+DTSTART;TZID="W. Europe Standard Time":20210126T210000
+LAST-MODIFIED:20210122T214017Z
+LOCATION:https://us02web.zoom.us/j/86576410122?pwd=YkdIVlQxUzhXbFcxb3N2QmRo
+	Z2J3UT09
+ORGANIZER;CN="Anton Shipulin":mailto:Anton.Shipulin@kaspersky.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=ru:[Devoted to S4x21] Beer ISAC Virtual Party EU Timezone
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000003050893420F1D601000000000000000
+	010000000DF2F7465E3C301439B5CACF4EDAD9B71
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=us-ascii"><meta name=Generator con
+	tent="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definition
+	s */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 
+	3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 
+	2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorma
+	l\n	{margin:0cm\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	font-fa
+	mily:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-pri
+	ority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\na:visited\, s
+	pan.MsoHyperlinkFollowed\n	{mso-style-priority:99\;\n	color:#954F72\;\n	te
+	xt-decoration:underline\;}\np.msonormal0\, li.msonormal0\, div.msonormal0\
+	n	{mso-style-name:msonormal\;\n	mso-margin-top-alt:auto\;\n	margin-right:0
+	cm\;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0cm\;\n	font-size:12.0pt
+	\;\n	font-family:"Times New Roman"\,serif\;}\nspan.EmailStyle18\n	{mso-sty
+	le-type:personal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:w
+	indowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:1
+	0.0pt\;\n	font-family:"Calibri"\,sans-serif\;}\n@page WordSection1\n	{size
+	:612.0pt 792.0pt\;\n	margin:2.0cm 42.5pt 2.0cm 3.0cm\;}\ndiv.WordSection1\
+	n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefa
+	ults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]>
+	<xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</
+	o:shapelayout></xml><![endif]--></head><body lang=EN-US link="#0563C1" vli
+	nk="#954F72"><div class=WordSection1><p class=MsoNormal>Topic: Beer ISAC V
+	irtual Party EU Timezone [Devoted to S4x21]<o:p></o:p></p><p class=MsoNorm
+	al>Time: Jan 26\, 2021 09:00 PM Central European Time (UTC +1)<o:p></o:p><
+	/p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Join Zoom M
+	eeting<o:p></o:p></p><p class=MsoNormal>https://us02web.zoom.us/j/86576410
+	122?pwd=YkdIVlQxUzhXbFcxb3N2QmRoZ2J3UT09<o:p></o:p></p><p class=MsoNormal>
+	<o:p>&nbsp\;</o:p></p><p class=MsoNormal>Meeting ID: 865 7641 0122<o:p></o
+	:p></p><p class=MsoNormal>Passcode: 771392<o:p></o:p></p><p class=MsoNorma
+	l><span lang=RU><o:p>&nbsp\;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20210122T213927Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+X-MS-OLK-SENDER;CN="Anton Shipulin":mailto:Anton.Shipulin@kaspersky.com
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
